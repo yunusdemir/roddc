@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/roddc/static/css/main.aa2d9a2f.chunk.css",
+    "main.js": "/roddc/static/js/main.9efd0485.chunk.js",
+    "main.js.map": "/roddc/static/js/main.9efd0485.chunk.js.map",
+    "runtime-main.js": "/roddc/static/js/runtime-main.863c21b7.js",
+    "runtime-main.js.map": "/roddc/static/js/runtime-main.863c21b7.js.map",
+    "static/css/2.b4e56faa.chunk.css": "/roddc/static/css/2.b4e56faa.chunk.css",
+    "static/js/2.335b5f97.chunk.js": "/roddc/static/js/2.335b5f97.chunk.js",
+    "static/js/2.335b5f97.chunk.js.map": "/roddc/static/js/2.335b5f97.chunk.js.map",
+    "static/js/3.c28aa4f8.chunk.js": "/roddc/static/js/3.c28aa4f8.chunk.js",
+    "static/js/3.c28aa4f8.chunk.js.map": "/roddc/static/js/3.c28aa4f8.chunk.js.map",
+    "index.html": "/roddc/index.html",
+    "static/css/2.b4e56faa.chunk.css.map": "/roddc/static/css/2.b4e56faa.chunk.css.map",
+    "static/css/main.aa2d9a2f.chunk.css.map": "/roddc/static/css/main.aa2d9a2f.chunk.css.map",
+    "static/js/2.335b5f97.chunk.js.LICENSE.txt": "/roddc/static/js/2.335b5f97.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.863c21b7.js",
+    "static/css/2.b4e56faa.chunk.css",
+    "static/js/2.335b5f97.chunk.js",
+    "static/css/main.aa2d9a2f.chunk.css",
+    "static/js/main.9efd0485.chunk.js"
+  ]
+}
