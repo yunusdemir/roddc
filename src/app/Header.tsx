@@ -4,7 +4,7 @@ class Header extends Component<any, any> {
     render() {
         return (
             <header>
-                <h1>Cookies</h1>
+                <h1 style={{fontSize: "4rem"}}>🍪 Cookies</h1>
             </header>
         );
     }

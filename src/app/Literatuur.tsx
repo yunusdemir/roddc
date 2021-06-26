@@ -18,7 +18,7 @@ class Literatuur extends Component<any, any> {
                 </p>
                 <p>
                     Sipior, J. C., Ward, B. T., & Mendoza, R. A. (2011). Online privacy concerns associated with cookies, flash cookies, and web beacons. Journal of internet commerce, 10(1), 1-16.
-                    https://www.tandfonline.com/doi/pdf/10.1080/15332861.2011.558454?casa_token=zPp2uzjAqzMAAAAA:j58-2bZlNY5DVvo3Kl3hGFAiziqbr63dePIlbUxqDrYmrc9YNTYj_I1hPuEiEUMwcEN-YC1y-x6tLg
+                    https://www.tandfonline.com/doi/pdf/10.1080/15332861.2011.558454
                 </p>
                 <p>
                     Susser, D., Roessler, B., & Nissenbaum, H. (2018). Online manipulation: Hidden influences in a digital world.

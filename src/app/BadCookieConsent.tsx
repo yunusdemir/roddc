@@ -37,8 +37,7 @@ class BadCookieConsent extends Component<any, any> {
         let visible;
 
         if (!this.state.showDetails) {
-            visible = <div>
-                <span className="close">&times;</span>
+            visible = <div style={{ "zIndex": 2000 }}>
                 <h2>Jouw data, jouw ervaring</h2>
                 <p>Door te klikken op "<b>Accepteer alle cookies</b>" ga je akkoord dat Voorbeeld.com en haar partners je data zullen bewaren en/of er toegang tot zullen krijgen. Dit gaat via jouw apparaat via cookies en vergelijkbare technieken. Jouw persoonlijke data kan hier tussen zitten. Dit wordt gedaan zodat je persoonlijke advertenties en content krijgt, for advertentie- en contentmetingen, bezoekersinzichten en productontwikkeling. </p>
                 <p><b>Jouw persoonlijke data die gebruikt kan worden</b>
@@ -891,6 +890,8 @@ class BadCookieConsent extends Component<any, any> {
                             </div>
                         </li>
                     </ul>
+                    <Button type="primary" onClick={() => setBadCC(false)}>Accepteer alle cookies</Button>
+                    <Button type="link" onClick={() => setBadCC(false)}>Accepteer aangevinkte cookies</Button>
                 </div>
 
             </div>

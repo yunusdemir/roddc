@@ -61,7 +61,9 @@ class App extends React.Component<any, any> {
                     <Col xs={24} md={{ span: 13, offset: 2}} xl={{ span: 12, offset: 3 }}>
                         <Header />
                     </Col>
-                    <Col xs={0} md={3}>
+                </Row>
+                <Row gutter={[16,16]}>
+                    <Col xs={0} md={{ span: 3, offset: 15}} style={{ position: "absolute" }}>
                         <Anchor>
                             <Link href="#hoofdvraag" title="Hoofdvraag" />
                             <Link href="#voorbeelden" title="Voorbeelden" />
@@ -72,9 +74,9 @@ class App extends React.Component<any, any> {
                         </Anchor>
                     </Col>
                 </Row>
-                <Row>
-                    <Col xs={24} md={{ span: 13, offset: 2}} xl={{ span: 12, offset: 3 }} id={"hoofdvraag"}>
-                        <Card>
+                <Row gutter={[16, 16]} id={"hoofdvraag"}>
+                    <Col xs={24} md={{ span: 13, offset: 2}} xl={{ span: 12, offset: 3 }}>
+                        <Card title={"Hoofdvraag"}>
                             <h3><i>Wat is de invloed van een hogere complexiteit in een cookie-pop-up op het wel of niet accepteren van verschillende soorten cookies op een website?
                             </i></h3>
                         </Card>
